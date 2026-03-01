@@ -1,7 +1,4 @@
 
-## 📘 README.md
-
-```markdown
 # 🤖 ChatGroq AI Chatbot with Streamlit
 
 A robust chatbot built using **Streamlit**, **LangChain**, and **Groq API** with a modern frontend.  
